@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\test\\DemoDotnet8BlzorQuickGrid\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DemoDotnet8BlzorQuickGrid.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DemoDotnet8BlzorQuickGrid.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\test\\DemoDotnet8BlzorQuickGrid\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\test\\DemoDotnet8BlzorQuickGrid\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\test\\DemoDotnet8BlzorQuickGrid\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\test\\DemoDotnet8BlzorQuickGrid\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DemoDotnet8BlzorQuickGrid.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DemoDotnet8BlzorQuickGrid.props",
+      "PackagePath": "build\\DemoDotnet8BlzorQuickGrid.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DemoDotnet8BlzorQuickGrid.props",
+      "PackagePath": "buildMultiTargeting\\DemoDotnet8BlzorQuickGrid.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DemoDotnet8BlzorQuickGrid.props",
+      "PackagePath": "buildTransitive\\DemoDotnet8BlzorQuickGrid.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
